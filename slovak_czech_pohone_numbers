@@ -1,0 +1,15 @@
+(^\+?[\d\s?]{10,15})
++iba na zaciatku
+space bol random a obmedziť na 3 sa neosvädčilo
+verzia bez medzier (^\+?\d{10,12})
+regex hore toto zobral celé
+
+0908312334
++421908332314
+004219126559874
++420987654321
++420 987 654 321
++421 223 987 828
+0913987654
+
+link https://regex101.com/library/qvPFfN
